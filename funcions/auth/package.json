@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "jsbn": "^1.1.0",
+    "sjcl": "^1.0.8"
+  }
+}
